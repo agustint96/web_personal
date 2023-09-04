@@ -1,0 +1,20 @@
+*{
+    background-color: #000;
+}
+/* Estilo para los encabezados */
+h1 {
+    color: #007bff;
+    font-size: 24px;
+    }
+
+/* Estilo para los párrafos */
+p {
+    color: #fff;
+    font-size: 16px;
+    }
+
+/* Estilo para los enlaces */
+a {
+    color: #ff9900;
+    text-decoration: none;
+    }
